@@ -44,7 +44,7 @@ sbt package
 * [x] Initialization
 * [x] Add register
 * [x] Add immediate
-* [] If statement (see note 1)
+* [-] If statement (see note 1)
 * [] direct translation to assembly labels
 * [] for loop
 
