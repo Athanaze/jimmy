@@ -1,0 +1,1475 @@
+[0m[[0m[0minfo[0m] [0m[0mLinking (5541 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mDiscovered 999 classes and 6909 methods[0m
+[0m[[0m[0minfo[0m] [0m[0mOptimizing (release-fast mode) (13476 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating intermediate code (7617 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mProduced 2 files[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/1.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/1.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/0.ll[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/0.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/process_monitor.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/process_monitor.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/util/ThreadUtil.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/util/ThreadUtil.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Allocator.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Allocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Phase.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Phase.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/GreyPacket.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/GreyPacket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Stack.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Stack.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/BlockList.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/BlockList.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Bytemap.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Bytemap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Settings.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Settings.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/WeakRefGreyList.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/WeakRefGreyList.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Object.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Object.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1-gcc-ext.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1-gcc-ext.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-EHABI.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-EHABI.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Stats.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Stats.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind_AppleExtras.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind_AppleExtras.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/LargeAllocator.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/LargeAllocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/State.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/State.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Marker.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Marker.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/libunwind.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/libunwind.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Sweeper.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Sweeper.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/ComixGC.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/ComixGC.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/SyncGreyLists.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/SyncGreyLists.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/GCThread.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/GCThread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/BlockAllocator.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/BlockAllocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/eh.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/eh.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersRestore.S[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersRestore.S.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/unwind.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-sjlj.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-sjlj.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/windows/unwind.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/windows/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersSave.S[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersSave.S.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=c++11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_nano.cpp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_nano.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_millis.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_millis.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/dyndispatch.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/dyndispatch.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_zone_offset.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_zone_offset.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix/StackTrace.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix/StackTrace.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared/MemoryMap.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared/MemoryMap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Heap.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Heap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/cpio.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/cpio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/unistd.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/unistd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uio.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pwd.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pwd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/stat.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/stat.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/signal.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/signal.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket_conversions.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket_conversions.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/arpa/inet.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/arpa/inet.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/mman.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/mman.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/errno.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/errno.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uname.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uname.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netdb.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netdb.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/select.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/select.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/limits.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/limits.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/grp.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/grp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/resource.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/resource.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/ioctl.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/ioctl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/syslog.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/syslog.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/termios.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/termios.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/in.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/in.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pthread.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pthread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/tcp.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/tcp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/statvfs.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/statvfs.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/fcntl.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/fcntl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/dirent.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/dirent.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/time.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/utime.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/utime.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/securityImpersonation.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/securityImpersonation.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/constants.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/constants.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/helpers.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/helpers.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/memory.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/memory.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessRights.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessRights.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnls.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnls.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessToken.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessToken.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winSocket.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winSocket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/tokenInformationClass.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/tokenInformationClass.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/accessMode.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/accessMode.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/sidNameUse.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/sidNameUse.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeType.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeType.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/console.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/console.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/securityObjectType.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/securityObjectType.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/time.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeForm.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeForm.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/math.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/math.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/signal.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/signal.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/errno.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/errno.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/complex.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/complex.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/float.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/float.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdlib.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdlib.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-O2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-fvisibility=hidden[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-std=gnu11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/local/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-I/usr/include[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Qunused-arguments[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdio.c[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdio.c.o[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling to native code (18213 ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning[0m
+[0m[[0m[0mdebug[0m] [0m[0m/usr/bin/clang++[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-flto=thin[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-rdynamic[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/jimmy-out[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wno-override-module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/process_monitor.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1-gcc-ext.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-EHABI.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind_AppleExtras.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindLevel1.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/libunwind.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersRestore.S.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/Unwind-sjlj.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/libunwind/UnwindRegistersSave.S.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/posix/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform/windows/unwind.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/platform.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_nano.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_zone_offset.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/time_millis.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/dyndispatch.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/immix_commix/StackTrace.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/shared/MemoryMap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Heap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/util/ThreadUtil.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Allocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Phase.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/GreyPacket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Stack.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/BlockList.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/datastructures/Bytemap.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Settings.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/WeakRefGreyList.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Object.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Stats.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/LargeAllocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/State.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Marker.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/Sweeper.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/ComixGC.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/SyncGreyLists.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/GCThread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/gc/commix/BlockAllocator.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-nativelib_native0.4_3-0.4.3-0/scala-native/eh.cpp.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/unistd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/stat.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket_conversions.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/mman.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/uname.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/socket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/select.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/resource.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/sys/ioctl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/termios.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pthread.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/statvfs.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/cpio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/pwd.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/signal.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/arpa/inet.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/errno.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netdb.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/limits.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/grp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/syslog.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/in.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/netinet/tcp.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/fcntl.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/dirent.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-posixlib_native0.4_3-0.4.3-1/scala-native/utime.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/securityImpersonation.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/helpers.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessRights.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/accessToken.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/tokenInformationClass.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnt/sidNameUse.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/console.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/time.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/constants.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/memory.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winnls.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/winSocket.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/accessMode.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeType.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/securityObjectType.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-windowslib_native0.4_3-0.4.3-2/scala-native/windows/accCtrl/trusteeForm.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/math.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/float.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdlib.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/signal.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/errno.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/complex.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/native-code-clib_native0.4_3-0.4.3-3/scala-native/stdio.c.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/1.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/sacha/Documents/jimmy/target/scala-3.1.0/native/0.ll.o[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-L/usr/local/lib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-L/usr/lib[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-lpthread[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-ldl[0m
+[0m[[0m[0minfo[0m] [0m[0mLinking native code (commix gc, thin lto) (55432 ms)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal (100431 ms)[0m
