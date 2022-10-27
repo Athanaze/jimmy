@@ -4,7 +4,7 @@ An opinionated, minimalist MIPS assembly generator.
 
 Compiles .jimmy files to .asm runnable on MIPS.
 
-[VS code extension with basic syntax highlighting](https://github.com/linkeddata/webid-login)
+[VS code extension with basic syntax highlighting](https://github.com/Athanaze/jimmy-syntax)
 
 # Syntax
 
